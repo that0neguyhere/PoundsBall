@@ -34,7 +34,7 @@ weit.Elasticity=0
 
 game:GetService("Players").LocalPlayer.Character["BeachBall"].Handle.att1_Handle.Parent = weit
 weit.att1_Handle.Rotation = Vector3.new(0,0,0)
-weit.att1_Handle.Position = Vector3.new(0,0,0) --PlaneModel
+weit.att1_Handle.Position = Vector3.new(0,0,0)
 
 local at1=Instance.new("Attachment",torso)
 local at2=Instance.new("Attachment",weit)
