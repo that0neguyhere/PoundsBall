@@ -32,7 +32,7 @@ weit.Name='Weight'
 weit.Friction=1
 weit.Elasticity=0
 
-game:GetService("Players").LocalPlayer.Character["Beachball"].Handle.att1_Handle.Parent = weit
+game:GetService("Players").LocalPlayer.Character["BeachBall"].Handle.att1_Handle.Parent = weit
 weit.att1_Handle.Rotation = Vector3.new(0,0,0)
 weit.att1_Handle.Position = Vector3.new(0,0,0) --PlaneModel
 
